@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Huzaifa, a full stack web developer
+ 
+ [DevPost](https://devpost.com/BloggingKIng)  |   [Github](https://github.com/BloggingKIng)  |  [Get Cricket Live Scores](https://cricket-score.live)
 
-<!--
-**BloggingKIng/BloggingKIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=BloggingKIng&color=lightgrey)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ReactJS & Advanced ML and AI
+- 👯 I'm happy to work with anyone on anything!
+- 💬 Ask me anything
+- 📫 How to reach me: huzaifablogger.contact@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Languages I Use</h3>
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
