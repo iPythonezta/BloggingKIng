@@ -2,7 +2,7 @@
  
  [DevPost](https://devpost.com/BloggingKIng)  |   [Github](https://github.com/BloggingKIng)  | [Twitter](https://twitter.com/ipythonista) | [Get Cricket Live Scores](https://cricket-score.live)   |
 
-![](https://komarev.com/ghpvc/?username=BloggingKIng&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=BloggingKIng&color=green)
 
 - 🌱 I’m currently learning ReactJS & Advanced ML and AI
 - 👯 I'm happy to work with anyone on anything!
@@ -34,7 +34,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&Color=339933)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
 
-<h3> My Github Stats </h3>
+<hr>
+
+<h1> My Github Stats </h1>
 
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloggingKIng&langs_count=10&theme=dark&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a><span>&nbsp;&nbsp;&nbsp;</span>
