@@ -36,4 +36,6 @@
 
 <h3> My Github Stats </h3>
 
-[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BloggingKIng&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloggingKIng&langs_count=10" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href=""><img align ="center" src ="https://github-readme-stats.vercel.app/api?username=BloggingKIng&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats" /></a>
