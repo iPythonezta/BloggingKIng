@@ -35,5 +35,5 @@
 ![PyTorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
 
 <h3> My Github Stats </h3>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bloggingKInga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BloggingKIng&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
