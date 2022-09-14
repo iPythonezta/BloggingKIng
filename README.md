@@ -37,5 +37,5 @@
 <h3> My Github Stats </h3>
 
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloggingKIng&langs_count=10" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href=""><img align ="center" src ="https://github-readme-stats.vercel.app/api?username=BloggingKIng&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloggingKIng&langs_count=10&theme=dark&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href=""><img align ="center" src ="https://github-readme-stats.vercel.app/api?username=BloggingKIng&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Huzaifa%27s%20Github%20Stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
