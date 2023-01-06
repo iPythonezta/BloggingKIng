@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Huzaifa, a full stack web developer
  
- [DevPost](https://devpost.com/BloggingKIng)  |   [Github](https://github.com/BloggingKIng)  | [Twitter](https://twitter.com/ipythonista) | [Get Cricket Live Scores](https://cricket-score.live)   |
+ [DevPost](https://devpost.com/BloggingKIng)  |   [Github](https://github.com/BloggingKIng)  | [Twitter](https://twitter.com/ipythonista)
 
 ![](https://komarev.com/ghpvc/?username=BloggingKIng&color=green)
 
