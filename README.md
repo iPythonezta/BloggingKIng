@@ -16,6 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 
 <h3> Frameworks & Services Used </h3>
 
@@ -29,7 +30,6 @@
 
 <h3>What I am going to learn & the things I am learning! </h3>
 
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAABX1BMVEUAAAAA/wAAgABVqlVAgEAzmTMrqiskkiQ5jjkzmTMuoi47nTs3kjczmTMwnzA5nDk2lDYzmTMxnjE1lTUzmTMwlzAzmTMynDI0ljQxmDE0lzQymzI0lzQzmTMymzI0lzQ1mjUzmTMymjI0mDQymDIymjIzmTMymDI0mDQ0mDQymjIymDI0mDQymTI0mTQzmDMzmTMymTI0mTQzmTMzmjMzmDMzmTMymTIzmDMzmjM0mTQzmTM0mTQzmDMzmTMzmjMzmDMymTI0mTQzmTMzmDMymTI0mTQymTIzmTM0mTQzmTMzmTMzmjMzmTMzmDMymTI0mTQzmDMymTI0mTQzmDMzmTMzmjMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTMzmTP///+6jFFoAAAAc3RSTlMAAQIDBAUGBwkKCw0ODxASExQVHR4gIyQnKiwzNjc4O0RGR0pNUVVXWV5gYWNmZ2hpa2xub3JzdXd5gIKFhoeIi46PkZWYmZ2go6Wqq6+ztre4u8bHyMnOz9DR09XW2Nzd3+Dj5ebn6Onq6+zv9fb4+vv9D744ugAAAAFiS0dEdN9tqG0AAAEnSURBVCjPZZLpN0JRFMV375V5fGUmZAwNj2euyJypSKSUQilFefv/X8sHldx3Pt2zf+esfde+F6iXRctm1ywwlCPFeJxP04I8dMGSJkvOd96ONMkdO5XqYff/EwCTM98097sLAEqMKYfgFlMABHRNuItF0/0AQmUAGN1S0LsZCp+pXQDKoQbw0G7L8S1ZYM4mgl0uACYXfSI4pqoApn1VBPYv8vXaP27wgHX7MvFJHonAMwcAY8+VFgEkSgoA6f67XQAufpwHTxI8NXjMRgp68c5trgG/vmEBvJz4i2Rd9wHojzI9P3BDa12fSTPaBwDSUo5kpCYPh5lflmpN22JgpRUA0BOsVvY6m6OWD15WZdld5NWg8OqTD0w8Mjll/CayN5NRzY32BzfcTM9g2CSbAAAAAElFTkSuQmCC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL&Color=339933)
 ![PyTorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
