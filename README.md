@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=BloggingKIng&color=green)
 
-- 🌱 I’m currently learning ReactJS & Advanced ML and AI
+- 🌱 I’m currently learning more about React Native 
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
 - 📫 How to reach me: huzaifablogger.contact@gmail.com
